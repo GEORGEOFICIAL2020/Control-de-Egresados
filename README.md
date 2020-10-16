@@ -7,6 +7,6 @@ A continuación, se propone una base de datos para una tienda de repuestos autom
 
 2. Jorge Luis Flórez Torres 
 
-## Curso: Programación Web
+## CURSO: PROGRAMACIÓN WEB
 
 ## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES
