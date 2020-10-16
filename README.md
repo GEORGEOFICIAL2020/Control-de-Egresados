@@ -6,3 +6,7 @@ A continuación, se propone una base de datos para una tienda de repuestos autom
 1. Óscar Alberto Arrieta González (Administrador).
 
 2. Jorge Luis Flórez Torres 
+
+## Curso: Programación Web
+
+## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES
