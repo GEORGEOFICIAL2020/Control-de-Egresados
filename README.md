@@ -9,4 +9,4 @@ A continuación, se propone una base de datos para una tienda de repuestos autom
 
 ## CURSO: PROGRAMACIÓN WEB
 
-## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES
+## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES -2020-II
