@@ -1,12 +1,13 @@
-# API: TIENDA DE REPUESTOS
-A continuación, se propone una base de datos para una tienda de repuestos automovilísticos que almacene la información de sus diferentes productos que tienen en venta, en todo lo que se refiere a repuesto y piezas de autos. 
+# API:  CONTROL DE EGRESADOS
+base de datos que recopile a los egresados del programa administración en salud de la universidad de Córdoba
 
 ## INTEGRANTES:
 
 1. Óscar Alberto Arrieta González (Administrador).
-
 2. Jorge Luis Flórez Torres 
+3. Diego Mathos JAraba 
+4. Ever Doria Morales
 
-## CURSO: PROGRAMACIÓN WEB
+## CURSO: REDES
 
-## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES -2020-II
+## LIC. INFORMÁTICA Y MEDIOS AUDIOVISUALES -2021
